@@ -1,0 +1,14 @@
+body{background-color:rgb(248, 148, 148);}
+
+h1{color: rgb(56, 56, 124);
+border:solid 3px;
+padding: 20px;}
+.red{color:rgb(207, 79, 79);}
+.blue{color:rgb(187, 41, 41);}
+
+h2{text-align: center;
+font-size: 1.8em;
+color: #0096c7;}
+li{text-align: justify;
+font-size: 15px;
+color: #133a47;}
